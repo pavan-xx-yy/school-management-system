@@ -1,0 +1,5 @@
+school.db
+*.db
+__pycache__/
+.env
+venv/
